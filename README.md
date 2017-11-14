@@ -3,3 +3,4 @@
 Contributors:
 - Xin Wang
 - Lars Finlay
+- Nikolaos Sakellarios
