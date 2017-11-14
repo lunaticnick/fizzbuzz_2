@@ -5,4 +5,4 @@ The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) and Pa
 ## Contributors:
 - Xin Wang
 - Lars Finlay
-- Nikolaos Sakellarios
+- Nikolaos I. Sakellarios
