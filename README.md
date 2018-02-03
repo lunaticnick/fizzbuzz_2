@@ -15,7 +15,12 @@ Fizzbuzz is normally of the first programs one writes when trying a new language
 
 
 ## How to Play
-First clone the directory to your local drive & navigate to the folder that contains the game.
+First clone the directory to your local drive & navigate to the folder that contains the game, by doing the following:
+
+```
+$ git clone git@github.com:lunaticnick/makersacademy-pcw04-fizzbuzz-02.git local_directory
+$ cd local_directory
+```
 
 In order to play the game you will need to use interactive Ruby (IRB). If you do not have Ruby and IRB installed on your computer, please click [here](https://www.ruby-lang.org/en/documentation/quickstart/) for instruction.
 
